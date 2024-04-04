@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @kadirssatr
+- 📫 How to reach me kadirsatir08@gmail.com
 - This is my github account 
