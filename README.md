@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kadirssatr
-- 📫 How to reach me kadirsatir08@gmail.com
-- This is my github account 
+Computer Programming Graduate
+Software Engineering Student
+Learning ASP.NET Core & React
+Building Full-Stack Projects
